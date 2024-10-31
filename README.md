@@ -1,3 +1,5 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/free-my-purchased/modernize-pro-admin-dashboard-react?style=for-the-badge&logo=Trustpilot&logoColor=white)
+
 # <a href="https://modernize-pro-admin-dashboard-react.vercel.app/?ref=5">Modernize Pro React MUI Dashboard
 
 </a>
@@ -6,12 +8,9 @@
 
 Modernize Pro React Admin Template with Material Ui + Typescript
 
+ 
 
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://ghbtns.com/github-btn.html?user=free-my-purchased&repo=modernize-pro-admin-dashboard-react&type=star&count=true" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star free-my-purchased/modernize-pro-admin-dashboard-react on GitHub">Star</a>
-
-<!-- Main image of Template -->
 
   <img src="https://adminmart.com/wp-content/uploads/2023/01/image_2023_01_26T10_19_25_019Z-min.png" />
 
