@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/free-my-purchased/modernize-pro-admin-dashboard-react?style=for-the-badge&logo=Trustpilot&logoColor=white&cacheSeconds=3600&link=https%3A%2F%2Fcamo.githubusercontent.com%2F6b679c599b289331e9c254d0afde4056d368342d2938f1a75d56d74dabf493cb%2F68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f667265652d6d792d7075726368617365642f6d6f6465726e697a652d70726f2d61646d696e2d64617368626f6172642d72656163743f7374796c653d666f722d7468652d6261646765266c6f676f3d547275737470696c6f74266c6f676f436f6c6f723d77686974652663616368655365636f6e64733d33363030">
 
+=======
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/free-my-purchased/modernize-pro-admin-dashboard-react?style=for-the-badge&logo=Trustpilot&logoColor=white&cacheSeconds=3600">
+>>>>>>> 5efe22ed99935d23baeef53b2a93fbf936d0f8d6
 
 
 
