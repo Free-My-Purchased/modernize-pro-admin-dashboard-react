@@ -1,5 +1,4 @@
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/free-my-purchased/modernize-pro-admin-dashboard-react?style=for-the-badge&logo=Trustpilot&logoColor=white&link=https%3A%2F%2Fgithub.com%2Ffree-my-purchased%2Fmodernize-pro-admin-dashboard-react&link=https%3A%2F%2Fgithub.com%2Ffree-my-purchased%2Fmodernize-pro-admin-dashboard-react">
-
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/free-my-purchased/modernize-pro-admin-dashboard-react?style=for-the-badge&logo=Trustpilot&logoColor=white&cacheSeconds=3600&link=https%3A%2F%2Fgithub.com%2Ffree-my-purchased%2Fmodernize-pro-admin-dashboard-react">
 
 
 
