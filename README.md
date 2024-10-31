@@ -6,17 +6,9 @@
 
 Modernize Pro React Admin Template with Material Ui + Typescript
 
-<body>
-<!-- Place this tag where you want the button to render. -->
+<iframe src="https://ghbtns.com/github-btn.html?user=twbs&repo=bootstrap&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
 
-<a class="github-button" href="https://github.com/free-my-purchased/modernize-pro-admin-dashboard-react" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star free-my-purchased/modernize-pro-admin-dashboard-react on GitHub">Star</a>
-
-<!-- Main image of Template -->
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-</body>
+<iframe src="https://ghbtns.com/github-btn.html?user=free-my-purchased&repo=modernize-pro-admin-dashboard-react&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
 
 ![OG Image](https://adminmart.com/wp-content/uploads/2023/01/image_2023_01_26T10_19_25_019Z-min.png)
 
