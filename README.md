@@ -66,4 +66,4 @@ Open package folder and install its dependencies. We recommanded yarn or npm.
          npm run build or yarn build
        ```
 
-Finally, Your app is ready to be deployed.🥳
+Finally, Your app is ready to be deployed.🥳🥳
