@@ -1,4 +1,7 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/free-my-purchased/modernize-pro-admin-dashboard-react?style=for-the-badge&logo=Trustpilot&logoColor=white)
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/free-my-purchased/modernize-pro-admin-dashboard-react?style=for-the-badge&logo=Trustpilot&logoColor=white&link=https%3A%2F%2Fgithub.com%2Ffree-my-purchased%2Fmodernize-pro-admin-dashboard-react&link=https%3A%2F%2Fgithub.com%2Ffree-my-purchased%2Fmodernize-pro-admin-dashboard-react">
+
+
+
 
 # <a href="https://modernize-pro-admin-dashboard-react.vercel.app/?ref=5">Modernize Pro React MUI Dashboard
 
