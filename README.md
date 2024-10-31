@@ -2,13 +2,29 @@
 
 </a>
 
-**Version:** _Pro ( Paid )_
 
 Modernize Pro React Admin Template with Material Ui + Typescript
+<div>
+
+[![Badge Likes]][#] 
+[<kbd> <br>**Version:** _Pro ( Paid )_<br> </kbd>][KBD]
+
+</div>
+<!---------------------------------------------------------------------------->
+
+[Button Shield]: https://img.shields.io/badge/Shield_Buttons-37a779?style=for-the-badge
+[License]: LICENSE
+[Shield]: Types/Shield.md
+[KBD]: Types/KBD.md
+[#]: https://github.com/free-my-purchased/modernize-pro-admin-dashboard-react
+
+<!---------------------------------[ Badges ]---------------------------------->
+
+[Badge Likes]: https://img.shields.io/github/stars/MarkedDown/Buttons?style=for-the-badge&labelColor=d0ab23&color=b0901e&logoColor=white&logo=Trustpilot
 
 <!-- Place this tag where you want the button to render. -->
 
-<a class="github-button" href="https://github.com/Free-My-Purchased/modernize-pro-admin-dashboard-react" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star adminmart/Modernize-Nextjs-Free on GitHub">Give a Star</a>
+<a class="github-button" href="https://github.com/free-my-purchased/modernize-pro-admin-dashboard-react" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star free-my-purchased/modernize-pro-admin-dashboard-react on GitHub">Give a Star</a>
 
 <!-- Main image of Template -->
 
